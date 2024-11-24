@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #797979;
+}
+
+canvas {
+    border: 2px solid black;
+    background-color: rgb(102, 102, 102);
+    width: 90%; /* Canvas zajmuje 90% szerokości ekranu */
+    height: 90%; /* Canvas zajmuje 90% wysokości ekranu */
+}
