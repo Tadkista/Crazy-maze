@@ -20,10 +20,10 @@
 
 - <h3>Movement:<h3>
   <p>The player moves using the arrow keys or WASD:</p>
-  - `W` or `Up Arrow`: Move up
-  - `S` or `Down Arrow`: Move down
-  - `A` or `Left Arrow`: Move left
-  - `D` or `Right Arrow`: Move right
+  - `W` or `Up Arrow`: Move up<br>
+  - `S` or `Down Arrow`: Move down<br>
+  - `A` or `Left Arrow`: Move left<br>
+  - `D` or `Right Arrow`: Move right<br>
 
 - <h3>Victory point:<h3>
   <p>The goal of the game is to reach the red square at the end of the path (where the clone starts). When the player reaches this point, the game resets, and a victory message is displayed.</p>
@@ -36,9 +36,6 @@
 
 <h2>Installation</h2>
 
-1. Clone or download the repository to your device.
+1. Clone or download the repository to your device.<br>
 2. Open the `maze.html` file in your browser to start playing the game.</p>
 
-<h2>License</h2>
-
-<p>This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.</p>
